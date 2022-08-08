@@ -92,7 +92,7 @@ Elementos no ordenados:
 (Usando nº se logra)
 
 
-\ Esta barra invertida es clave si no quieres que se vea ningún signo 😉
+\ Esta barra invertida es clave si quieres que se vean los signos 😉
 
 
 
